@@ -1,0 +1,32 @@
+04042023	22:32:33	0f345546-9b1c-47c6-b519-186817189043	/new-page.html	GET
+04042023	22:32:33	72c85c57-b54c-422d-9a6e-fd830baa478d	/css/style.css	GET
+04042023	22:32:33	966f4a9a-c60d-4812-ae52-c8f5a9a65d06	/img/nature.jpg	GET
+04042023	22:32:33	e3e5ce19-aac1-4b79-8e5f-327cca616cd4	/favicon.ico	GET
+04042023	22:33:38	3da4ce86-6dad-4b01-af3a-ae7b20545db2	/new-page.html	GET
+04052023	17:25:45	c547a2f1-2b7f-41b5-9062-1537e7e1e119	GET	undefined	/css/style.css   
+
+04052023	17:32:15	63b4c3b2-3f92-4116-9df4-018c54802108	GET	undefined	/css/style.css
+04052023	17:37:44	aa21477c-2002-45e2-91da-87faf22dcd8c	OPTIONS	https://www.google.com	/css/style.css
+04052023	17:37:44	a75d2dd2-f591-43d3-a9da-8966b5cf4bf0	GET	https://www.google.com	/css/style.css
+04052023	17:42:40	0a87c7d2-bb47-4f6b-bfae-25f1df0a2f45	OPTIONS	https://www.google.com	/css/style.css
+04052023	17:42:40	cd7fa3f3-8d39-4d29-b714-056197a148d7	GET	https://www.google.com	/css/style.css
+04052023	18:00:32	66582236-68d3-4b8a-beb1-56c1443c1a24	OPTIONS	https://www.google.com	/css/style.css
+04052023	18:00:32	6478f9d0-5219-4422-a473-e4b559d7e077	GET	https://www.google.com	/css/style.css
+04052023	18:00:48	7c2b776e-b278-4814-9d5d-a5fdcc1e82bd	OPTIONS	https://www.google.com	/css/style.css
+04052023	18:00:48	b8ee73d3-0f77-4c8c-9b6b-31d7fbab459c	GET	https://www.google.com	/css/style.css
+04052023	18:13:42	1870b28e-1d12-45fa-b479-2a982c3b19c8	GET	undefined	/
+04052023	18:14:02	6dd2aa12-05d1-49de-94b8-785a226ce299	GET	undefined	/
+04052023	18:14:02	257a1d40-6028-4e6a-a665-fb5a721e078f	GET	undefined	/css/style.css
+04052023	18:22:45	76f9e514-e2a3-4725-ae3c-a48bd0d6cdbc	GET	undefined	/
+04052023	18:22:45	779ef1d3-f2db-4357-aeee-f9dd7b2f08e9	GET	undefined	/css/style.css
+04052023	18:23:15	86005042-9d15-4f3b-b4a0-b7d79f0189bd	GET	undefined	/
+04052023	18:24:18	fd3b3e7c-6cce-4204-be75-e7f7da97c236	GET	undefined	/
+04052023	18:41:39	6373149d-1f62-4741-a0ff-d94b4282da26	GET	undefined	/dave
+04052023	18:42:00	d1976110-0fb9-4378-8441-0694ebff1c6f	GET	undefined	/dave
+04052023	18:42:00	6a8c3c2e-6f75-4b16-8f8c-2540770e25ed	GET	undefined	/css/style.css
+04052023	18:42:27	2df84ac1-8869-4258-b358-d1bf68b1e2e1	GET	undefined	/dave
+04052023	18:42:27	fc492bb0-672f-49fe-a834-55d75fe5c423	GET	undefined	/css/style.css
+04052023	18:42:35	43eb96ab-020a-4824-ba24-553ffee544cb	GET	undefined	/dave
+04052023	18:42:35	3ede94ed-8a2f-486e-bd3e-51e025a38f1d	GET	undefined	/css/style.css
+04052023	18:47:45	5086d9d5-1a4c-45c8-a2c9-de61051fc556	GET	undefined	/dave
+04052023	18:47:45	4277119c-688a-491d-9b27-86a7063b45c9	GET	undefined	/css/style.css
