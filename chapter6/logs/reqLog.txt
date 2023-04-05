@@ -1,0 +1,5 @@
+04042023	22:32:33	0f345546-9b1c-47c6-b519-186817189043	/new-page.html	GET
+04042023	22:32:33	72c85c57-b54c-422d-9a6e-fd830baa478d	/css/style.css	GET
+04042023	22:32:33	966f4a9a-c60d-4812-ae52-c8f5a9a65d06	/img/nature.jpg	GET
+04042023	22:32:33	e3e5ce19-aac1-4b79-8e5f-327cca616cd4	/favicon.ico	GET
+04042023	22:33:38	3da4ce86-6dad-4b01-af3a-ae7b20545db2	/new-page.html	GET
