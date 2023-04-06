@@ -87,6 +87,7 @@
 04062023	07:35:01	3063a7ef-e946-4003-8d4c-2f3148be0bb5	GET	undefined	/employees/
 04062023	07:35:24	bdf8b32b-91da-4151-a49d-22b23c351355	GET	undefined	/employees/
 04062023	07:35:42	1b6eef13-163f-4d75-bbbe-fca6ebe14270	GET	undefined	/employees/1
+<<<<<<< HEAD
 04062023	18:13:42	e1dbbdd1-e902-405c-9f93-fe5ca86f385b	GET	undefined	/employees
 04062023	18:14:40	4e73dcf0-c92e-49ea-975d-fecea37a72d7	POST	undefined	/employees
 04062023	18:14:52	df1b98f0-1fae-4b46-8fed-4a9a6e16199c	GET	undefined	/employees
@@ -142,3 +143,5 @@
 04062023	18:36:14	76aa7551-68d9-4098-9758-8ecc490004dc	GET	undefined	/employees/
 04062023	18:36:14	cf32fc1e-23b7-439a-b8a8-344f74e38ae8	GET	undefined	/employees/
 04062023	18:38:06	aee5d4e2-569f-4c5b-89e7-0ca06ffc23a7	GET	undefined	/employees/
+=======
+>>>>>>> efd474590a86fc9add807789bce087fc05a38527
