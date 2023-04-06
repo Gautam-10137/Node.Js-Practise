@@ -1,3 +1,4 @@
+// creating rotes for each route (every router can run on their own server)
 const express=require('express');
 const path=require('path')
 const app=express();
