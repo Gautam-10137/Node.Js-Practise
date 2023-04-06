@@ -1,0 +1,6 @@
+04042023	22:33:38	3c05763d-64ae-46d9-8fb4-d5b811065912	TypeError	fsPromises.readFil is not a function
+04052023	18:24:18	180fdb7b-c6b1-4821-ad8f-fbd31d22e30d	Error:Not allowed by cors
+04052023	18:41:39	260a9668-c1ac-4c92-bf99-3c76c68df79f	Error:Not allowed by cors
+04062023	06:47:34	edfb6d77-3545-4cd2-91c2-e3cfbc6a10b7	Error:ENOENT: no such file or directory, stat 'C:\Node.Js\Chapter8\routes\views\index.html'
+04062023	07:20:51	9e45db18-de98-46aa-ac07-1b931deeaafa	ReferenceError:employees is not defined
+04062023	07:24:01	77f4468b-17df-4dae-8821-77a66278bec4	ReferenceError:employees is not defined
