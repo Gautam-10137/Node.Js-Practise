@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 // creating rotes for each route (every routercan run on their own server)
-=======
-// creating rotes for each route (every router can run on their own server)
->>>>>>> efd474590a86fc9add807789bce087fc05a38527
+
 const express=require('express');
 const path=require('path')
 const app=express();
