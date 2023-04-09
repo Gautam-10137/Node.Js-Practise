@@ -66,3 +66,5 @@ app.listen(PORT,()=>{
     console.log(`Hii! I am listening carefuly at port ${PORT}`);
 })
 
+
+//  you should put .env in git ignore
